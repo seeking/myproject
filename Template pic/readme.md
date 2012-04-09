@@ -1,4 +1,4 @@
 ﻿![DocumentUp](http://mostafarahmati.ir/my%20git/under-construction.jpg)
 #### This project is under construction.
-#### Photos folder has been removed to protect copyright.
+#### Photos folder has been removed to protect my copyright.
 #### to see the demo , please click "ScreenShot.jpg" .
