@@ -2,4 +2,4 @@
 ###قالب برای سیستم مدیرت محتوای راش، صفحه کنترل پنل ادمین هست، جهت حفظ کپی رایت شرکت موردنظر پوشه عکس این قالب حذف شد.
 ###این قالب در حال تبدیل به اچ تی ام ال می باشد.
 ###برای مشاهده دمو [اینجا را کلیک کنید.](https://github.com/MR-Mostafa/myproject/raw/master/CMS%20Rush%20-%20Admin%20Panel/ScreenShot.png)
-![DocumentUp](http://mostafarahmati.ir/my%20git/git-adamak.jpg)
+![DocumentUp](http://mostafarahmati.ir/my%20git/under-construction.jpg)
